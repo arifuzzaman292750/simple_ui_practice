@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage> {
                     ],
                   ),
                   SizedBox(
-                    height: 25,
+                    height: 20,
                   ),
 
                   //search bar
